@@ -1307,7 +1307,7 @@ export default function App() {
                 src="/rezaarap.jpeg"
                 className="mx-auto mb-4 w-60 rounded-full"
               />
-              <h3 className="text-2xl text-black font-semibold mb-2">Arya</h3>
+              <h3 className="text-2xl text-black font-semibold mb-2">Reza Arap</h3>
               <div className="flex justify-center mb-2">
                 {[...Array(10)].map((_, i) => (
                   <FaStar key={i} className="text-amber-500 text-xl" />
