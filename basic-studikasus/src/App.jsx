@@ -112,7 +112,7 @@ export default function App() {
           <div className="absolute left-2 md:left-5 right-2 md:right-5 top-1/2 flex flex-col md:flex-row -translate-y-1/2 transform justify-between w-full">
             <div className="h-[60vh] md:h-screen flex items-center justify-center w-full">
               <div className={`w-[90vw] max-w-[500px] mx-auto md:ml-[600px] transition-all duration-700 transform mt-4 md:mt-10 ${slideIn ? "translate-x-0 opacity-100" : "translate-x-32 opacity-0"}`}>
-                <h1 className="text-2xl md:text-5xl text-white font-semibold mb-2 font-serif" >Men's Collection</h1>
+                
                 <h1 className="text-4xl md:text-8xl text-white font-bold mb-4">Musi Scent</h1>
                 <p className="text-base md:text-xl text-white mb-8">Welcome to Musi Scent that is redefining elegance with every fragrance.</p>
                 <a href="#Men">
